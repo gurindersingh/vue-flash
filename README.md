@@ -3,6 +3,7 @@
 ### Usage
 
 ```php
+// If you using Laravel Blade
 // Add Flash level to master
 @php
 	
