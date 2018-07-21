@@ -17,7 +17,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "pack": "vue-cli-service build --target lib --name VueFlash ./src/components/flash.js"
+    "pack": "vue-cli-service build --target lib --name VueFlash ./src/components/flash.vue"
   },
   "main": "dist/VueFlash.common.js",
   "files": [
