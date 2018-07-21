@@ -19,7 +19,7 @@
     "lint": "vue-cli-service lint",
     "pack": "vue-cli-service build --target lib --name VueFlash ./src/components/flash.vue"
   },
-  "main": "dist/VueFlash.common.js",
+  "main": "src/components/flash.vue",
   "files": [
     "dist/*.js",
     "dist/*.js.map",
